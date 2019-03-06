@@ -1,0 +1,238 @@
+2016-02-26 13:57:47,807 DEBUG [org.wayne.feiq.cfg.ConfigLoader] - use default config
+2016-02-26 13:57:47,963 DEBUG [org.wayne.feiq.net.UDPReceiver] - upd receiver started at port: 49974
+2016-02-26 13:57:48,010 DEBUG [org.wayne.feiq.net.MainService] - main service started at port: 1711
+2016-02-26 13:57:48,026 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver started at port: 54861
+2016-02-26 13:57:48,712 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:57:48,743 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:57:48,743 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 13:57:48,743 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 13:57:48,743 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 13:58:01,005 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:58:01,005 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:58:01,005 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 13:58:01,005 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 13:58:01,005 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 13:58:04,218 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.UserShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:59:06,478 DEBUG [org.wayne.feiq.net.UDPSender] - hdksd
+2016-02-26 13:59:06,478 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 13:59:06,478 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 13:59:15,071 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.CommandShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 13:59:15,118 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - command handler begin to work
+2016-02-26 13:59:34,743 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - socket command and command message are closed
+2016-02-26 13:59:34,743 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - command destroyed
+2016-02-26 13:59:43,385 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler begin to work
+2016-02-26 13:59:43,463 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.FileShareShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 14:00:07,144 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler finished work
+2016-02-26 14:00:38,952 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler begin to work
+2016-02-26 14:00:38,968 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.FileShareShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 14:00:40,731 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler finished work
+2016-02-26 15:06:54,226 DEBUG [org.wayne.feiq.cfg.ConfigLoader] - use default config
+2016-02-26 15:06:54,260 DEBUG [org.wayne.feiq.net.UDPReceiver] - upd receiver started at port: 49621
+2016-02-26 15:06:54,268 DEBUG [org.wayne.feiq.net.MainService] - main service started at port: 4208
+2016-02-26 15:06:54,278 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver started at port: 54861
+2016-02-26 15:06:54,929 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:06:54,931 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:06:54,932 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:06:54,937 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:06:54,938 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:02,459 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:02,460 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:02,461 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:02,461 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:02,461 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,192 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,193 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,193 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:03,194 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,195 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,862 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,863 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,864 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:03,865 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,867 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,900 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,901 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:03,903 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:03,912 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:03,912 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,228 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,230 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,231 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,237 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:04,241 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,253 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,254 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,255 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:04,255 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,256 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,607 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,608 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,608 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:04,608 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,609 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,632 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,633 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,633 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:04,634 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,635 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,986 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,987 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:04,987 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:04,988 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:04,989 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,011 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,012 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,012 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:05,013 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,013 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,365 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,366 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,367 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,367 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:05,367 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,407 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,408 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,409 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:05,409 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,415 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,770 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,771 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,771 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:05,771 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,771 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,795 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,796 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:05,796 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:05,796 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:05,797 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:06,428 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:06,429 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:06,429 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:06,429 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:06,430 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:07,351 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:07,352 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:07,352 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:07,353 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:07,353 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:07,377 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:07,378 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:07:07,378 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:07:07,378 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:07:07,380 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:11:00,755 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler begin to work
+2016-02-26 15:11:00,790 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.FileShareShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:02,664 DEBUG [org.wayne.feiq.net.impl.FileShareHandler] - file share handler finished work
+2016-02-26 15:11:05,004 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:05,006 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:05,007 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:11:05,007 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:11:05,010 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:11:06,685 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.UserShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:09,288 DEBUG [org.wayne.feiq.net.UDPSender] - eee
+2016-02-26 15:11:09,289 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 15:11:09,289 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 15:11:19,884 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:19,885 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:19,885 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 15:11:19,885 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:11:19,886 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:11:27,117 DEBUG [org.wayne.feiq.net.UDPSender] - ee
+2016-02-26 15:11:27,118 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 15:11:27,118 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 15:11:35,919 DEBUG [org.wayne.feiq.net.UDPSender] - ee
+
+2016-02-26 15:11:35,919 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 15:11:35,919 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 15:11:54,734 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:11:54,740 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:12:02,395 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 15:12:02,395 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 15:12:14,348 DEBUG [org.wayne.feiq.net.UDPSender] - ff
+
+2016-02-26 15:12:14,348 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 15:12:14,348 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 15:12:28,666 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:12:28,666 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:12:28,705 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:12:28,709 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:12:29,095 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:12:29,096 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:12:29,123 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:12:29,124 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:16:38,530 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:16:38,531 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 15:17:02,975 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:17:02,977 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useroff
+2016-02-26 15:17:05,069 DEBUG [org.wayne.feiq.net.UDPSender] - udp sender disposed
+2016-02-26 15:17:05,069 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 15:17:05,070 DEBUG [org.wayne.feiq.net.Broadcaster] - broadcaster disposed
+2016-02-26 15:17:05,070 DEBUG [org.wayne.feiq.util.ThreadPool] - dispose thread pool
+2016-02-26 15:17:05,071 DEBUG [org.wayne.feiq.net.MainService] - main service stoped at port: 4208
+2016-02-26 15:17:05,071 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver stoped at port: -1
+2016-02-26 15:17:05,074 ERROR [org.wayne.feiq.util.ThreadPool] - Pool did not terminate
+2016-02-26 15:17:05,075 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receiver stoped at port: -1
+2016-02-26 21:01:44,002 DEBUG [org.wayne.feiq.cfg.ConfigLoader] - load XmlConfig
+2016-02-26 21:01:44,037 DEBUG [org.wayne.feiq.net.UDPReceiver] - upd receiver started at port: 52963
+2016-02-26 21:01:44,042 DEBUG [org.wayne.feiq.net.MainService] - main service started at port: 11815
+2016-02-26 21:01:44,047 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver started at port: 54861
+2016-02-26 21:01:44,747 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:01:44,747 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:01:44,747 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 21:01:44,752 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 21:01:44,752 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 21:01:47,197 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.UserShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:01:49,962 DEBUG [org.wayne.feiq.net.UDPSender] - ss
+
+2016-02-26 21:01:49,962 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 21:01:49,962 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 21:01:56,647 DEBUG [org.wayne.feiq.net.UDPSender] - w
+2016-02-26 21:01:56,647 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 20
+2016-02-26 21:01:56,652 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: newMessageReceived
+2016-02-26 21:02:02,577 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.CommandShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:02:02,612 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - command handler begin to work
+2016-02-26 21:02:49,702 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - socket command and command message are closed
+2016-02-26 21:02:49,702 DEBUG [org.wayne.feiq.net.impl.CommandHandler] - command destroyed
+2016-02-26 21:02:53,462 ERROR [org.wayne.feiq.net.impl.CommandHandler] - OutMessageRunnable error
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at org.wayne.feiq.net.impl.CommandHandler$OutMessageRunnable.run(CommandHandler.java:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-02-26 21:03:21,678 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:03:21,683 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:03:21,683 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 21:03:21,683 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 21:03:21,683 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 21:03:22,448 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:03:22,453 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 21:03:22,453 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-26 21:03:22,453 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 21:03:22,453 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receiver stoped at port: -1
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.UDPSender] - udp sender disposed
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver stoped at port: -1
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.MainService] - main service stoped at port: 11815
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-26 23:07:50,953 DEBUG [org.wayne.feiq.net.Broadcaster] - broadcaster disposed
+2016-02-26 23:07:50,954 DEBUG [org.wayne.feiq.util.ThreadPool] - dispose thread pool
+2016-02-26 23:07:50,957 ERROR [org.wayne.feiq.util.ThreadPool] - Pool did not terminate
+2016-02-27 12:35:33,477 DEBUG [org.wayne.feiq.cfg.ConfigLoader] - load XmlConfig
+2016-02-27 12:35:33,664 DEBUG [org.wayne.feiq.net.UDPReceiver] - upd receiver started at port: 49559
+2016-02-27 12:35:33,711 DEBUG [org.wayne.feiq.net.MainService] - main service started at port: 1610
+2016-02-27 12:35:33,774 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver started at port: 54861
+2016-02-27 12:35:34,913 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-27 12:35:34,928 DEBUG [org.wayne.feiq.net.UDPSender] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-27 12:35:34,928 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receive type: 11
+2016-02-27 12:35:34,928 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-27 12:35:34,928 DEBUG [org.wayne.feiq.ui.UserList] - user list listener: useron
+2016-02-27 12:35:36,863 DEBUG [org.wayne.feiq.ui.helper.ShellHelper] - shell disposed: class org.wayne.feiq.ui.UserShell, {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.UDPSender] - udp sender disposed
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.MainService] - main service stoped at port: 1610
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.UDPReceiver] - udp receiver stoped at port: -1
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.Broadcaster] - {address: David-PC/192.168.56.1, userName: 'null', groupName: 'FeiQJava', osUserName: 'David'}
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.BroadcastReceiver] - broadcast receiver stoped at port: -1
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.net.Broadcaster] - broadcaster disposed
+2016-02-27 12:35:40,934 DEBUG [org.wayne.feiq.util.ThreadPool] - dispose thread pool
